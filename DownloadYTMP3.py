@@ -3,9 +3,9 @@ import os
 
 # Définition de l'arborescence du projet
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MUSIC_DIR = os.path.join(BASE_DIR, "Musique")
-COVER_DIR = os.path.join(BASE_DIR, "Cover")
-MP3TAG_DIR = os.path.join(BASE_DIR, "Mp3tag")
+MUSIC_DIR = os.path.join(BASE_DIR, "MusiquesInstallees")
+COVER_DIR = os.path.join(BASE_DIR, "CoverSiBesoin")
+MP3TAG_DIR = os.path.join(BASE_DIR, "Mp3tagSiBesoin")
 
 def init_folders():
     """Crée les dossiers nécessaires au projet s'ils n'existent pas déjà."""

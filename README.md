@@ -8,9 +8,9 @@ Ce script télécharge la musique, la convertit au format idéal (MP3 ou MP4 pou
 L'arborescence a été pensée pour être propre et centralisée. Chaque dossier a un rôle précis :
 
 - `DownloadYTMP3.py` : Le script principal à exécuter.
-- `Musique/` : Le dossier où toutes vos musiques/vidéos téléchargées seront automatiquement sauvegardées.
-- `Cover/` : Un dossier dédié pour y stocker vos propres images de pochettes d'albums. Utile si l'utilisateur souhaite changer la pochette automatiquement récupérée sur YouTube et souhaite centraliser ses images.
-- `Mp3tag/` : Un dossier prévu pour que l'utilisateur y place lui-même la **version portable de Mp3Tag** (téléchargeable ici : [Mp3Tag Portable](https://www.mp3tag.de/en/portable.html)). Cela permet d'avoir l'outil de modification de métadonnées directement sous la main, au sein même du projet !
+- `MusiquesInstallees/` : Le dossier où toutes vos musiques/vidéos téléchargées seront automatiquement sauvegardées.
+- `CoverSiBesoin/` : Un dossier dédié pour y stocker vos propres images de pochettes d'albums. Utile si l'utilisateur souhaite changer la pochette automatiquement récupérée sur YouTube et souhaite centraliser ses images.
+- `Mp3tagSiBesoin/` : Un dossier prévu pour que l'utilisateur y place lui-même la **version portable de Mp3Tag** (téléchargeable ici : [Mp3Tag Portable](https://www.mp3tag.de/en/portable.html)). Cela permet d'avoir l'outil de modification de métadonnées directement sous la main, au sein même du projet !
 
 *(Note: Ces dossiers sont générés automatiquement au premier lancement du script si vous ne les avez pas créés.)*
 
