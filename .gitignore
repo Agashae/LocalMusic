@@ -1,0 +1,11 @@
+# Secrets et cache d'authentification
+.env
+.spotify_cache
+
+# Musiques téléchargées (contenu personnel, pas versionné)
+MusiquesInstallees/
+CoverSiBesoin/
+
+# Python
+__pycache__/
+*.pyc
